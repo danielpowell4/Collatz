@@ -1,5 +1,5 @@
 #Collatz Sequence
-It has been said that math isn't ready for the [Collatz Sequence](https://en.wikipedia.org/wiki/Luhn_algorithm).
+It has been said that math isn't ready for the [Collatz Sequence](https://en.wikipedia.org/wiki/Collatz_conjecture).
 Computers nowadays, however, have little problem running simple tasks millions of times a minute.
 
 The journey to 1 takes disparate paths based upon subtle difference in starting point.
