@@ -19,12 +19,15 @@ The answer, as it turns out, is 837799 with a sequence length of 525.
 3. From the command-line run `ruby lib/collatz.rb`
 
 ##Sample
-n	      sequence	                           length
-3	3 → 10 → 5 → 16 → 8 → 4 → 2 → 1	             8
+n   |   sequence   |   length
 
-4	4 → 2 → 1	                                   3
+2   |   2 → 1   |   2
 
-6	6 → 3 → 10 → 5 → 16 → 8 → 4 → 2 → 1	         9
+3   |   3 → 10 → 5 → 16 → 8 → 4 → 2 → 1   |   8
+
+4   |   4 → 2 → 1   |   3
+
+6   |  	6 → 3 → 10 → 5 → 16 → 8 → 4 → 2 → 1   |   9    
 
 
 
